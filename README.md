@@ -8,7 +8,7 @@ To get a local copy up and running follow these simple example steps.
 1. Installation of linter 
 2. Webhint and Stylelint
 3. Create Branch
-4. And make a Push
+4. And make a Push to the Github
 ## Authors
 ** Hirwa Cardinal Loic **
 - GitHub:[https://github.com/Hirwacardinalloic]
