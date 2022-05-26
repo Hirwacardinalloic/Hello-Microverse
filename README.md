@@ -10,6 +10,6 @@ To get a local copy up and running follow these simple example steps.
 3. Create Branch
 4. And make a Push
 ## Authors
-** LOIC **
+** Hirwa Cardinal Loic **
 - GitHub:[https://github.com/Hirwacardinalloic]
 - Twitter: [@loicard]
