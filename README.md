@@ -1,15 +1,23 @@
 # Hello Microverse Project
-> This project is about setup linters, creating Branches and to be familia with Github flow.
+> This project is about setup linters, creating Branches and follow Github flow.
 ## Built With
-- HTML and CSS
-- Visual Studio Code
+- HTML
+- CSS 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
-1. Installation of linter 
-2. Webhint and Stylelint
-3. Create Branch
-4. And make a Push to the Github
+- Open Terminal
+- Clone the Project
+- Open browser using live serve
+## Prerequisites
+- IDE to edit and run the code (We use Visual Studio Code).
+- Git to versionning your work.
 ## Authors
 ** Hirwa Cardinal Loic **
-- GitHub:[https://github.com/Hirwacardinalloic]
+- GitHub:[@Hirwacardinalloic]
 - Twitter: [@loicard]
+## Show your support
+Give a star if you like this project
+## Acknowledgments
+Microverse program
+My standup team
+My family's support
